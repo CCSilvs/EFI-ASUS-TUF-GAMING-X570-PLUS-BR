@@ -2,10 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>#Ryzentosh EFI</key>
+	<key>#Platform</key>
+	<string>iMacPro1,1 @MacOS Ventura 13.6</string>
+	<key>#Hardware</key>
 	<string>Asus TUF X570 Plus BR | Ryzen 7 5700X | Powercolor RX 6800 XT Red Dragon</string>
-	<key>#Opencore version:</key>
-	<string>0.9.5 - Updated 24.10.2023</string>
+	<key>#Bootloader:</key>
+	<string>Opencore 0.9.5 - Updated 24.10.2023</string>
 	<key>#Credits</key>
 	<string>EFI created/modified by CCSilvs from the original Gabriel Luchina AMD bases</string>
 	<key>ACPI</key>
