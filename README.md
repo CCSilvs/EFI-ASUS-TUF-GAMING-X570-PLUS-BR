@@ -27,7 +27,7 @@
 
 ## **What works**
 - All MacOS since Big Sur to Ventura (Sonoma in the next Opencore update)
-- Audio: front panel, rear panel including Optic Digital Out
+- Audio: front panel, rear panel including Optic Digital Out + wifi receivers and speakers
 - All USB ports
 - Wifi, Bluetooth, Airdrop, Airplay (even with Samsung TV screens), Sidecar
 - Everything from iCloud and Apple phones, pads & gadgets
