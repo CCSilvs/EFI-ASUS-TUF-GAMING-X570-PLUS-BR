@@ -1,6 +1,6 @@
 # Fully Functional Asus X570 TUF Gaming Plus/BR Hackintosh
-
-![Ryzentosh_CCSilvs](https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR-/assets/91890693/57eed575-af01-4a04-9dab-e0d61e65f96a)
+<br>
+<img width="540" alt="Screenshot 2023-10-25 at 17 32 223" src="https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR/assets/91890693/dd553cee-8a39-4f86-ada3-0f7e564cf043">
 
 **MacOS version:** Ventura 13.6
 <br>
@@ -35,7 +35,7 @@
 - Sleep/wake up
 
 ## **What doesn't work**
-- Microphone and line in on rear panel (know AMD issue)
+- Microphone and line in on rear panel (known AMD issue)
 
 ## ACPI used:
 - SSDT-EC-USBX-DESKTOP.aml (prebuild)
@@ -74,7 +74,7 @@
 
 **Enable**
 - Above 4G decoding
-- Resizable BAR can be set "Auto", this config.plist already has a setting to mantaing this option enabled to guarantee the best graphical performance in Windows
+- Resizable BAR can be set "Auto", this config.plist already has a setting to keep this option enabled to ensure the best graphics performance on Windows
 - EHCI/XHCI Hand-off
 - OS type: Windows 8.1/10 UEFI Mode
 - SATA Mode: AHCI
