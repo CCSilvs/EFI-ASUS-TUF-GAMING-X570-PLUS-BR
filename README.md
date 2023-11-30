@@ -1,6 +1,6 @@
 # Fully Functional Asus X570 TUF Gaming Plus/BR Hackintosh
 <br>
-<img width="540" alt="Screenshot 2023-10-25 at 17 32 223" src="https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR/assets/91890693/dd553cee-8a39-4f86-ada3-0f7e564cf043">
+<img width="100%" alt="Screenshot 2023-10-25 at 17 32 223" src="https://github.com/CCSilvs/EFI-ASUS-TUF-GAMING-X570-PLUS-BR/assets/91890693/dd553cee-8a39-4f86-ada3-0f7e564cf043">
 
 **MacOS version:** Ventura 13.6
 <br>
